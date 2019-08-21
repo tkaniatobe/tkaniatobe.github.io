@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": “tali kaniatobe.com.tkaniatobe.NFCTest2",
+        "appID": “tali_kaniatobe.com.tkaniatobe.NFCTest2",
         "paths": [
           "*"
         ]
