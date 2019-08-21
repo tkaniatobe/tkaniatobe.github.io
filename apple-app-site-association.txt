@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": “tali kaniatobe.com.tkaniatobe.NFCTest2",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
